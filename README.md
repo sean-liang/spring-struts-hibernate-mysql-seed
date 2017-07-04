@@ -5,5 +5,7 @@ Seed project with latest struts spring and hibernate. Use mysql as the underlyin
 Features:
 
 * Java8
-* Use Maven to manage dependencies
+* Maven for dependency management
+* HSQLDB for unit test
 * UTF-8 support
+* i18n support
